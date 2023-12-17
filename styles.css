@@ -33,9 +33,19 @@ padding-right:40px;
     padding: 0;
     background-color: white;
     height: 83vh;
+    position: relative;
 }
 .img-ad{
+    position:relative;
     height:90%;
     width: 75%;
     margin-top:27px;
+    z-index: 1;
+    
+}
+.IG-link{
+    position: absolute;
+   margin-left:600px;
+   margin-top:400px;
+   z-index: 2;
 }
