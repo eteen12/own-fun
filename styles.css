@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+}
+.nav-bar{
+   padding:30px;
+   background-color: #3d2e00;
+background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
+padding-right:40px;
+
+}
+.img-logo{
+    width: 100px;
+}
+.nav-link{
+    font-family:sans-serif;
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+    float:right;
+    margin-top:5px;
+    margin-left:50px;
+    font-size: 23px;
+    
+}
+.nav-link:hover{
+    color:white;
+}
